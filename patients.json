@@ -1,0 +1,112 @@
+{
+  "P001": {
+    "name": "Ananya Verma",
+    "city": "Guwahati",
+    "age": 28,
+    "gender": "female",
+    "height": 1.65,
+    "weight": 90.0,
+    "bmi": 33.06,
+    "verdict": "Obese"
+  },
+  "P002": {
+    "name": "Ravi Mehta",
+    "city": "Mumbai",
+    "age": 35,
+    "gender": "male",
+    "height": 1.75,
+    "weight": 85,
+    "bmi": 27.76,
+    "verdict": "Overweight"
+  },
+  "P003": {
+    "name": "Sneha Kulkarni",
+    "city": "Pune",
+    "age": 22,
+    "gender": "female",
+    "height": 1.6,
+    "weight": 45,
+    "bmi": 17.58,
+    "verdict": "Underweight"
+  },
+  "P004": {
+    "name": "Rohit",
+    "city": "Mumbai",
+    "age": 40,
+    "gender": "male",
+    "height": 1.8,
+    "weight": 90.0,
+    "bmi": 27.78,
+    "verdict": "Overweight"
+  },
+  "P005": {
+    "name": "Neha Sinha",
+    "city": "Kolkata",
+    "age": 30,
+    "gender": "female",
+    "height": 1.55,
+    "weight": 75,
+    "bmi": 31.22,
+    "verdict": "Obese"
+  },
+  "P006": {
+    "name": "Rahul gupta",
+    "city": "Hydrabad",
+    "age": 19,
+    "gender": "male",
+    "height": 1.74,
+    "weight": 55.0,
+    "bmi": 18.17,
+    "verdict": "Underweight"
+  },
+  "P007": {
+    "name": "Shivam mishra",
+    "city": "Hydrabad",
+    "age": 19,
+    "gender": "male",
+    "height": 1.74,
+    "weight": 55.0,
+    "bmi": 18.17,
+    "verdict": "Underweight"
+  },
+  "P0025": {
+    "name": "Shiavm",
+    "city": "string",
+    "age": 1,
+    "gender": "male",
+    "height": 1.0,
+    "weight": 1.0,
+    "bmi": 1.0,
+    "verdict": "Underweight"
+  },
+  "005": {
+    "name": "rohit",
+    "city": "string",
+    "age": 1,
+    "gender": "male",
+    "height": 1.0,
+    "weight": 1.0,
+    "bmi": 1.0,
+    "verdict": "Underweight"
+  },
+  "P999": {
+    "name": "Test User",
+    "city": "Test City",
+    "age": 26,
+    "gender": "male",
+    "height": 0.307848,
+    "weight": 56.0,
+    "bmi": 590.9,
+    "verdict": "Obese"
+  },
+  "p007": {
+    "name": "shivam",
+    "city": "chapra",
+    "age": 19,
+    "gender": "male",
+    "height": 2.1336,
+    "weight": 58.0,
+    "bmi": 12.74,
+    "verdict": "Underweight"
+  }
+}
